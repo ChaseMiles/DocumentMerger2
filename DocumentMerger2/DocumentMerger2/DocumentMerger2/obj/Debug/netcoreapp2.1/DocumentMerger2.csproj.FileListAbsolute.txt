@@ -1,0 +1,11 @@
+/Users/chasemiles/Desktop/DocumentMerger2/DocumentMerger2/DocumentMerger2/bin/Debug/netcoreapp2.1/DocumentMerger2.deps.json
+/Users/chasemiles/Desktop/DocumentMerger2/DocumentMerger2/DocumentMerger2/bin/Debug/netcoreapp2.1/DocumentMerger2.runtimeconfig.json
+/Users/chasemiles/Desktop/DocumentMerger2/DocumentMerger2/DocumentMerger2/bin/Debug/netcoreapp2.1/DocumentMerger2.runtimeconfig.dev.json
+/Users/chasemiles/Desktop/DocumentMerger2/DocumentMerger2/DocumentMerger2/bin/Debug/netcoreapp2.1/DocumentMerger2.dll
+/Users/chasemiles/Desktop/DocumentMerger2/DocumentMerger2/DocumentMerger2/bin/Debug/netcoreapp2.1/DocumentMerger2.pdb
+/Users/chasemiles/Desktop/DocumentMerger2/DocumentMerger2/DocumentMerger2/obj/Debug/netcoreapp2.1/DocumentMerger2.csprojAssemblyReference.cache
+/Users/chasemiles/Desktop/DocumentMerger2/DocumentMerger2/DocumentMerger2/obj/Debug/netcoreapp2.1/DocumentMerger2.csproj.CoreCompileInputs.cache
+/Users/chasemiles/Desktop/DocumentMerger2/DocumentMerger2/DocumentMerger2/obj/Debug/netcoreapp2.1/DocumentMerger2.AssemblyInfoInputs.cache
+/Users/chasemiles/Desktop/DocumentMerger2/DocumentMerger2/DocumentMerger2/obj/Debug/netcoreapp2.1/DocumentMerger2.AssemblyInfo.cs
+/Users/chasemiles/Desktop/DocumentMerger2/DocumentMerger2/DocumentMerger2/obj/Debug/netcoreapp2.1/DocumentMerger2.dll
+/Users/chasemiles/Desktop/DocumentMerger2/DocumentMerger2/DocumentMerger2/obj/Debug/netcoreapp2.1/DocumentMerger2.pdb
